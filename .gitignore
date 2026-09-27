@@ -1,5 +1,8 @@
-.vscode/
 .venv/
 .venv313/
 .tmp/
 PyWhatKit_DB.txt
+
+.vscode/settings.json
+.vscode/__pycache__/
+.vscode/tempCodeRunnerFile.py
